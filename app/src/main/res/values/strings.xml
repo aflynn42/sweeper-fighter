@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sweeper Fighter</string>
+    <string name="title_activity_hunt">Map</string>
+    <string name="title_activity_shield">Map</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="hunt_launcher">Hunt!</string>
+    <string name="hide_launcher">Hide!</string>
+    <string name="harvest_launcher">Harvest!</string>
+</resources>
